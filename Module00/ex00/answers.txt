@@ -1,0 +1,5 @@
+pip list
+pip show <package>
+pip uninstall <package>
+pip install <package>
+pip freeze
