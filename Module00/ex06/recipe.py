@@ -100,7 +100,7 @@ def main():
                 break
             case _:
                 print("Sorry, this option does not exist.")
-    print("Cookbook closed. Goodybe !")
+    print("Cookbook closed. Goodbye !")
 
 if (__name__ == "__main__"):
     main()
